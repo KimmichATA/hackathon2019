@@ -100,6 +100,7 @@ The following list is by far not exhaustive, you will be able to find more resou
 * Craddock, R. C., Margulies, D. S., Bellec, P., Nichols, B. N., Alcauter, S., Barrios, F. A., … Xu, T. (2016). [Brainhack: a collaborative workshop for the open neuroscience community.](https://doi.org/10.1186/s13742-016-0121-x) GigaScience, 5(1).
 * [Introduction to Brainhack](https://www.youtube.com/watch?v=JLJFKV7p74A) by Cameron Craddock within Brainhack Proceedings 2017 (30 min)   
 * [Introduction to Neurohackweek 2017](https://neurohackademy.org/course/introduction-to-neurohackweek-4/) by Ariel Rokem within Neurohackweek 2017
+* [Online Brain Intensive](https://onlinebrainintensive.com) Over 10 hours of content on how to prepare for a brainhack: covers git, open source practices, and machine learning
 
 
 ## Open Science
